@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">todoapp</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string-array name="Where">
+        <item>Business</item>
+        <item>Work</item>
+        <item>Home</item>
+        <item>College</item>
+        <item>School</item>
+    </string-array>
+
+</resources>
